@@ -1,2 +1,3 @@
-# PROYECTO-SEMAFORO-
-Ejecución del proyecto Semáforo doble y peatonal. 
+**proyecto semaforo**
+<span style= "color:red "> BIENVENIDOS
+  
