@@ -1,3 +1,3 @@
 **proyecto semaforo**     
-<span style="color:amarillo"> BIENVENIDOS
+< span style="color:verde"> BIENVENIDOS
   
