@@ -1,5 +1,5 @@
 **proyecto semaforo**     
-< span style="color:verde"> BIENVENIDOS
+<span style="color:verde"> BIENVENIDOS
 ***
 ---
 ___
