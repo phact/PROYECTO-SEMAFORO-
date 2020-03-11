@@ -2,7 +2,7 @@
 <span style="color:red"> PRACTICA
  
   *siguiente*    
-<span style="color:verde"> BIENVENIDOS
+<span style="color:verde"> BIENVENIDOS </span>
 ---
 __
 ~~hola~~
