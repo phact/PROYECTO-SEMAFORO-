@@ -8,6 +8,6 @@ __
 ~~hola~~
  ***gracias***
  
- ¡bienvenidos <span style="font-family: Times New Roman; font-size:1em;">ENAMORADO!</span>
+ ¡bienvenidos <span style="font-family: Times New Roman; font-size:1em;"> a GITHUB!</span>
  
-¡Estoy <span style="font-family:Papyrus; font-size:4em;color:yellow;">ENAMORADO!</span>
+¡Realicemos la  <span style="font-family:Papyrus; font-size:4em;color:yellow;"> Publicacion de proyecto!</span>
