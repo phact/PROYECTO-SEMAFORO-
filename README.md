@@ -4,5 +4,7 @@
   *siguiente*    
 <span style="color:verde"> BIENVENIDOS
 ---
-___
-~~hola~
+__
+~~hola~~
+ ***gracias***
+ 
