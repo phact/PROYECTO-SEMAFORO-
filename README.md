@@ -1,6 +1,6 @@
-**proyecto semaforo**     
+# **PROYECTO SEMAFORO**         
 <span style="color:verde"> BIENVENIDOS
 ***
 ---
 ___
-~~hola~~
+~~hola~
