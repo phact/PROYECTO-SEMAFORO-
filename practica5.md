@@ -1,3 +1,5 @@
+# Practica 5: SEMAFORO PEATONAL
+
 ##<span style ="font-family:Time New Roman;font-size:3em;color:red;>PRACTICA 5: SEMAFORO DE PEATONES </span>
 ####<span style ="font-family:Time New Roman;font-size:1em;color:black;> ***Objetivo:*** Construir un semaforo para peatones utlizando dos LEDS y un zumbador.
 ####<span style ="font-family:Time New Roman;font-size:1em;color:black;> ***Descripción:***   
