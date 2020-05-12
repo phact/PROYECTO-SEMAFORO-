@@ -1,7 +1,7 @@
 ## **PRACTICA 5. SEMÁFORO DE PEATONES**  
 
 ### **Objetivo:** 
-Construir un semáforo para peatones utilizando dos LEDs y un zumbador.   ç
+Construir un semáforo para peatones utilizando dos LEDs y un zumbador.   
 
 ### **Descripción:** 
  1. Se conecta el LED rojo al pin digital 13 y el LED de color verde al pin digital 12 de la placa de Arduino 
