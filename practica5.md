@@ -1,7 +1,5 @@
 # Practica 5: SEMAFORO PEATONAL
 
-## PRACTICA 5: SEMAFORO DE PEATONES
-
 #### ***Objetivo:***
 
 #### ***Descripción:***   
