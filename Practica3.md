@@ -11,7 +11,8 @@ Controlar la intensidad del brillo de un LED mediante un potenciómetro. Aprende
  5. Ahora es tiempo de conectar nuestro potenciómetro, lo colocamos en la  protoboard. 
  6. Viendo el potenciómetro de frente, el pin del extremo izquierdo lo conectamos a tierra y el del extremo derecho 5v. 
  7. El pin central de nuestro potenciómetro lo conectamos al pin 3 A0 de la sección digital de nuestro Arduino. 
- 8. Ahora cargamos el código para ver los resultados. 
+ 8. Ahora cargamos el código para ver los resultados.
+ **Aclaración:** Es importante que sea el pin 3 ya que es una salida analógica, aunque la Arduino UNO cuenta con otros pines analógicos aparte del 3, estos el 5, 6, 10 y 11, se les puede reconocer por el signo ~ que les antecede.
  
 ### **Materiales:**
 -	1 Arduino UNO R3.
