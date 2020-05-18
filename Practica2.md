@@ -25,7 +25,7 @@ Encender y apagar un LED utilizando un botón pulsador que envié una señal que
 -	1 Resistencia de 10K
 
 ### **Montaje:**
-![Imagen montaje](img/diseño_práctica_2.png)   
+![Imagen montaje](img/diseño_practica_2.png)   
 Montaje del circuito con el uso de botones para encender y apagar
 
 ### **Código para Arduino:**
