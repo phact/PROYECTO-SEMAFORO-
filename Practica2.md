@@ -1,4 +1,4 @@
-## <span style="color:blue; font-family:Times New Roman; ">  **PRACTICA 2: ENCENDER Y APAGAR UN LED CON UN PULSADOR**</spam>
+## <span style="color:blue; ">  **PRACTICA 2: ENCENDER Y APAGAR UN LED CON UN PULSADOR**</span>
 
 ### **Objetivos:**
 Encender y apagar un LED utilizando un botón pulsador que envié una señal que Arduino registre y decida si enciende o apaga el LED.
