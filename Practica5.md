@@ -1,4 +1,4 @@
-## **PRACTICA 5. SEMÁFORO DE PEATONES**  
+## <span style="color:blue; "> **PRACTICA 5: SEMÁFORO DE PEATONES** </span>
 
 ### **Objetivo:** 
 Construir un semáforo para peatones utilizando dos LEDs y un zumbador.   
